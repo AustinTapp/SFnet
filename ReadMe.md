@@ -1,1 +1,1 @@
-This repository is currently under construction and will be ready for MICCAI 2024 in October.
+This repository is currently under construction and will be available immediately following MICCAI 2024 in October.
