@@ -20,7 +20,7 @@ python train.py
 
 ## Inference
 
-For out-of-the-box SuperField training, navigate to the `Inference` folder and run the `Generate_SuperField.py` script:
+For out-of-the-box SuperField training, navigate to the `Inference` folder and run the `Infer.py` script:
 
 ```bash
 python Inference/Generate_SuperField.py
@@ -28,7 +28,7 @@ python Inference/Generate_SuperField.py
 
 ### Pretrained Models
 
-To use pretrained models, make sure to download them from the provided OneDrive link and place them in the appropriate directory.
+To use pretrained models, make sure to download them from the shared link and place them in the appropriate directory.
 
 ---
 
