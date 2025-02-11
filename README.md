@@ -32,4 +32,4 @@ To use pretrained models, make sure to download them from the shared link and pl
 
 ---
 
-Feel free to open an issue if you encounter any problems or have questions!
+Feel free to open an issue or send me a message (atapp@childrensnational.org) if you encounter any problems or have questions!
